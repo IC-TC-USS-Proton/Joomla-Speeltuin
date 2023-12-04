@@ -7,7 +7,7 @@ https://www.joomla.org/
 
 ### Testsite bij Joomla zelf
 Hier moet je een telefoonnummer invullen, verder moet je deze elke maand verlengen.
-launch.joomla.org
+https://launch.joomla.org
 
 ### Complete webserver met Joomla in Docker
 
